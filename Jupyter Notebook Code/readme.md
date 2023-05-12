@@ -1,6 +1,6 @@
 # Jupyter Notebook Code
 
-File in this folder contain jupyter notebook version from cluster_predict.py and personality_kmeans.py
+File in this folder contain jupyter notebook version from Colaborative_filtering_v1.py
 
 ## Description
 
