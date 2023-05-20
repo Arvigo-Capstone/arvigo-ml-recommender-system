@@ -1,6 +1,6 @@
 # Jupyter Notebook Code
 
-File in this folder contain jupyter notebook version from Colaborative_filtering_v1.py
+File in this folder contain jupyter notebook version from Colaborative_filtering_v2.py
 
 ## Description
 
